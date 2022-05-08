@@ -1,0 +1,76 @@
+
+{
+    "Productos":[
+        {
+            "id":"1",
+            "descripcion":"PC LENOVO",
+            "categoria":"COMPUTADORAS",
+            "marca":"LENOVO",
+            "cantidad":"1",
+            "precio":"15000"
+        },
+
+        {
+            "id":"2",
+            "descripcion":"TLC 10S TABLET",
+            "categoria":"TABLETS",
+            "marca":"TLC",
+            "cantidad":"1",
+            "precio":"8000"
+        },
+
+        {
+            "id":"3",
+            "descripcion":"TECLADO GAMER",
+            "categoria":"ACCESORIOS",
+            "marca":"HP",
+            "cantidad":"1",
+            "precio":"750"
+        },
+
+        {
+            "id":"4",
+            "descripcion":"IPHONE 13 PLUS",
+            "categoria":"CELULARES",
+            "marca":"APPLE",
+            "cantidad":"1",
+            "precio":"30000"
+        },
+
+        {
+            "id":"5",
+            "descripcion":"I MAC 21",
+            "categoria":"COMPUTADORAS",
+            "marca":"APPLE",
+            "cantidad":"1",
+            "precio":"47000"
+        },
+
+        {
+            "id":"6",
+            "descripcion":"BOCINAS PC",
+            "categoria":"ACCESORIOS",
+            "marca":"LOGITECH",
+            "cantidad":"1",
+            "precio":"1350"
+        },
+
+        {
+            "id":"7",
+            "descripcion":"TESLA PHONE",
+            "categoria":"CELULARES",
+            "marca":"TESLA",
+            "cantidad":"1",
+            "precio":"23000"
+        },
+
+        {
+            "id":"8",
+            "descripcion":"LAPTOP ASUS ZEN BOOK",
+            "categoria":"COMPUTADORAS",
+            "marca":"ASUS",
+            "cantidad":"1",
+            "precio":"17000"
+        }
+    ]
+}
